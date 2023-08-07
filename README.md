@@ -21,3 +21,13 @@ The ImageJ plugins are as follows:
 The codes are fully parallelized
 
 See the source code, and/or the paper for a full description of the variables
+
+Updates: 
+2023.06.08
+Replacement of 
+- _Simu_HydroCell_MultiCircle_MultiCore_ \
+- _Simu_HydroCell_DensityDistrib_MultiCircle_varSize_MultiCore_ \
+by
+- _Simu_HydroCell_MultiCircle_CorrectedRadDistrib_MultiCore_ \
+- _Simu_HydroCell_DensityDistrib_MultiCircle_varSize_CorrectedRadDistrib_MultiCore_ \
+To correct for mistake in the distribution of circular radii
